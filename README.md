@@ -2,3 +2,9 @@
 
 ### 投影片
 - https://www.slideshare.net/secret/dOUx2sKvFQMQvz
+
+### Anaconda
+- https://www.continuum.io/downloads
+
+### Sqlite Manager
+- https://addons.mozilla.org/zh-tw/firefox/addon/sqlite-manager/
